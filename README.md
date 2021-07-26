@@ -30,7 +30,7 @@
 
 ## Features
 These are some of the features available currently:
-- Easy to tweek
+- Easy to tweak
 - Can change the information to be sent
 - Can add multiple nos easily
 - Ready for deployment on Heroku (Procfile configured)
